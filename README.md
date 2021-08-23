@@ -1,5 +1,5 @@
 # TicTacToe-Client
-TicTacToe game implemented by .net on c#. The client side implemented with Winform and backend side with ASP.NET Core.</br>
+TicTacToe game implemented by .net on C#. The client side implemented with Winforms and backend side with ASP.NET Core.</br>
 Link to Backend side: https://github.com/ShakuriAvi/TicTacToe-Backend.</br>
 Client side: The game is played on the client side. In every game the players are: Player vs. System.</br>
 the user must log in with a username and password with which he registered on the site before he start the game.</br>
