@@ -10,12 +10,16 @@ After the user logs in to the site by database (Microsoft SQL server) , there ar
 Server side:The site and the connection to the database are on the server side.</br> The model that I worked is MVC (model view controller).</br>
 There are many options in Website:
 * Register- This is the game registration page. For to start a game on the client side, the user must logs in to the system.
-* Game Table- Using queries this page displays tables of:</br> 1) all of the user's games in the table (on what date and result).</br>
+* Game Table- Using queries this page displays tables of:</br>1) all of the user's games in the table (on what date and result).</br>
 2) How many games each player played.</br>
 3) All games the player played in descending order.</br>
-* Queries- Using queries this page displays tables of:</br> 1) All players with all their details stored in the database.</br>
+* Queries- Using queries this page displays tables of:</br>1) All players with all their details stored in the database.</br>
 2) All games with all their details in the database.</br>
-* Edit/Delete- On this page you can delete from the database: players and games.</br> In addition you can edit the player data (username and password).
+* Edit/Delete- On this page you can delete from the database: players and games.</br> In addition you can edit the player data (username and password).</br>
 
-![game](https://user-images.githubusercontent.com/65177459/130361848-456571b3-cc62-45c2-86f5-6c6dca2f2808.png)
+# LoginForm
 ![loginForm](https://user-images.githubusercontent.com/65177459/130361849-3aa2b7a5-d758-444b-ae9c-894b92532755.png)
+
+# GameForm
+![game](https://user-images.githubusercontent.com/65177459/130361848-456571b3-cc62-45c2-86f5-6c6dca2f2808.png)
+
