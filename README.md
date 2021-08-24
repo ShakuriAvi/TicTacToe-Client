@@ -1,9 +1,9 @@
 # TicTacToe-Client
 TicTacToe game implemented by .net on C#. The client side implemented with Winforms and backend side with ASP.NET Core.</br>
 Link to Backend side: https://github.com/ShakuriAvi/TicTacToe-Backend.</br>
-Client side: The game is played on the client side. In every game the players are: Player vs. System.</br>
-the user must log in with a username and password with which he registered on the site before he start the game.</br>
-After the user logs in to the site by database (Microsoft SQL server) , there are two options: </br>
+Client side: The game is played on the client side. In every game the Player play against the System.</br>
+The user must Login with a username and password that he registered on the site before he start the game.</br>
+After the user Login to the site by database (Microsoft SQL server) , there are two options: </br>
 * view past games- By using the database, the user can see his past games, with a combobox that displays the games by date and game week.</br>
 * start a new game - The game includes a 5X5 board and the rules of the game are similar to TicTacToe.</br> When there are 4 sequence similar elements  (X OR O)  in the same row , diagonally or in the column, the game ends and the winner is displayed.</br>
 
